@@ -63,3 +63,32 @@ Note: Không thể cùng tham chiếu đến 1 biến mutable!!!
   let s = String::from("hello");
   let \_r1 = &s;
   let \_r2 = &s;
+
+# Enum
+
+# match
+
+like switch case
+
+# Option
+
+- some
+- none
+
+# module
+
+- mod <name> : như 1 file <name>.rs
+- import mod => use <name>
+- enum: chỉ cần public biến enum => pub enum
+- fn: pub thì cần pub hết func trong mod
+
+# Collection
+
+- Được lưu ở trong heap
+
+## vector
+
+- init:
+  vec![]
+  Vec::new()
+- hash map
