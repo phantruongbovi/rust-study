@@ -98,3 +98,5 @@ like switch case
 # Trait
 
 - Like abstract class in java
+
+# lifetime
