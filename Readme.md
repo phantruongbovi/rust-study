@@ -92,3 +92,9 @@ like switch case
   vec![]
   Vec::new()
 - hash map
+
+# Generic type
+
+# Trait
+
+- Like abstract class in java
